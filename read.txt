@@ -12,3 +12,8 @@ this file is being edited
 editing file after adding to staging area
 
 lets see what is git commit --amend
+
+editing file once again
+now i will make changes and see of they reflect with --amend command once commit has been pushed to the repo
+
+
