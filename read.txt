@@ -14,6 +14,9 @@ editing file after adding to staging area
 lets see what is git commit --amend
 
 editing file once again
+<<<<<<< HEAD
 now i will make changes and see of they reflect with --amend command once commit has been pushed to the repo
 
+=======
+>>>>>>> 8ed82981249a1e7f8b1400dd93717d2971fd34d3
 
